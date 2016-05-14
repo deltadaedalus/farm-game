@@ -1,0 +1,326 @@
+fileFormatVersion: 2
+guid: 4e53cb0612e80f44da7983b8f533c99d
+timeCreated: 1463259281
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Antenna_Base
+    100002: Antenna_Shaft
+    100004: Antenna_Tip
+    100006: Arm_Bottom
+    100008: Arm_Lip
+    100010: Arm_Rail
+    100012: Arm_Rail 1
+    100014: Arm_Top
+    100016: Eye
+    100018: Eye_Lid
+    100020: Finger_Bottom
+    100022: Finger_Joint_Bottom
+    100024: Finger_Joint_Top
+    100026: Finger_Top
+    100028: Hand
+    100030: Head
+    100032: Motor
+    100034: Motor 1
+    100036: Motor 2
+    100038: Motor 3
+    100040: Neck
+    100042: Other_Arm_Lid
+    100044: Other_Wrist_Lip
+    100046: Plate_Side
+    100048: Plate_Side 1
+    100050: Plate_Side 2
+    100052: Plate_Side 3
+    100054: Plate_Top
+    100056: Plate_Top 1
+    100058: Plate_Top 2
+    100060: Plate_Top 3
+    100062: Pod_BL
+    100064: Pod_BR
+    100066: Pod_FL
+    100068: Pod_FR
+    100070: //RootNode
+    100072: Shoulder
+    100074: tank
+    100076: Tank_Holder
+    100078: Tank_Holder 1
+    100080: Torso
+    100082: Trim
+    100084: Trim 1
+    100086: Trim 2
+    100088: Trim 3
+    100090: Wheel
+    100092: Wheel 1
+    100094: Wheel 2
+    100096: Wheel 3
+    100098: Wrist
+    100100: Wrist_Lip
+    400000: Antenna_Base
+    400002: Antenna_Shaft
+    400004: Antenna_Tip
+    400006: Arm_Bottom
+    400008: Arm_Lip
+    400010: Arm_Rail
+    400012: Arm_Rail 1
+    400014: Arm_Top
+    400016: Eye
+    400018: Eye_Lid
+    400020: Finger_Bottom
+    400022: Finger_Joint_Bottom
+    400024: Finger_Joint_Top
+    400026: Finger_Top
+    400028: Hand
+    400030: Head
+    400032: Motor
+    400034: Motor 1
+    400036: Motor 2
+    400038: Motor 3
+    400040: Neck
+    400042: Other_Arm_Lid
+    400044: Other_Wrist_Lip
+    400046: Plate_Side
+    400048: Plate_Side 1
+    400050: Plate_Side 2
+    400052: Plate_Side 3
+    400054: Plate_Top
+    400056: Plate_Top 1
+    400058: Plate_Top 2
+    400060: Plate_Top 3
+    400062: Pod_BL
+    400064: Pod_BR
+    400066: Pod_FL
+    400068: Pod_FR
+    400070: //RootNode
+    400072: Shoulder
+    400074: tank
+    400076: Tank_Holder
+    400078: Tank_Holder 1
+    400080: Torso
+    400082: Trim
+    400084: Trim 1
+    400086: Trim 2
+    400088: Trim 3
+    400090: Wheel
+    400092: Wheel 1
+    400094: Wheel 2
+    400096: Wheel 3
+    400098: Wrist
+    400100: Wrist_Lip
+    2300000: Antenna_Base
+    2300002: Antenna_Shaft
+    2300004: Antenna_Tip
+    2300006: Arm_Bottom
+    2300008: Arm_Lip
+    2300010: Arm_Rail
+    2300012: Arm_Rail 1
+    2300014: Arm_Top
+    2300016: Eye
+    2300018: Eye_Lid
+    2300020: Finger_Bottom
+    2300022: Finger_Joint_Bottom
+    2300024: Finger_Joint_Top
+    2300026: Finger_Top
+    2300028: Hand
+    2300030: Head
+    2300032: Motor
+    2300034: Motor 1
+    2300036: Motor 2
+    2300038: Motor 3
+    2300040: Neck
+    2300042: Other_Arm_Lid
+    2300044: Other_Wrist_Lip
+    2300046: Plate_Side
+    2300048: Plate_Side 1
+    2300050: Plate_Side 2
+    2300052: Plate_Side 3
+    2300054: Plate_Top
+    2300056: Plate_Top 1
+    2300058: Plate_Top 2
+    2300060: Plate_Top 3
+    2300062: Pod_BL
+    2300064: Pod_BR
+    2300066: Pod_FL
+    2300068: Pod_FR
+    2300070: //RootNode
+    2300072: Shoulder
+    2300074: tank
+    2300076: Tank_Holder
+    2300078: Tank_Holder 1
+    2300080: Torso
+    2300082: Trim
+    2300084: Trim 1
+    2300086: Trim 2
+    2300088: Trim 3
+    2300090: Wheel
+    2300092: Wheel 1
+    2300094: Wheel 2
+    2300096: Wheel 3
+    2300098: Wrist
+    2300100: Wrist_Lip
+    3300000: Antenna_Base
+    3300002: Antenna_Shaft
+    3300004: Antenna_Tip
+    3300006: Arm_Bottom
+    3300008: Arm_Lip
+    3300010: Arm_Rail
+    3300012: Arm_Rail 1
+    3300014: Arm_Top
+    3300016: Eye
+    3300018: Eye_Lid
+    3300020: Finger_Bottom
+    3300022: Finger_Joint_Bottom
+    3300024: Finger_Joint_Top
+    3300026: Finger_Top
+    3300028: Hand
+    3300030: Head
+    3300032: Motor
+    3300034: Motor 1
+    3300036: Motor 2
+    3300038: Motor 3
+    3300040: Neck
+    3300042: Other_Arm_Lid
+    3300044: Other_Wrist_Lip
+    3300046: Plate_Side
+    3300048: Plate_Side 1
+    3300050: Plate_Side 2
+    3300052: Plate_Side 3
+    3300054: Plate_Top
+    3300056: Plate_Top 1
+    3300058: Plate_Top 2
+    3300060: Plate_Top 3
+    3300062: Pod_BL
+    3300064: Pod_BR
+    3300066: Pod_FL
+    3300068: Pod_FR
+    3300070: //RootNode
+    3300072: Shoulder
+    3300074: tank
+    3300076: Tank_Holder
+    3300078: Tank_Holder 1
+    3300080: Torso
+    3300082: Trim
+    3300084: Trim 1
+    3300086: Trim 2
+    3300088: Trim 3
+    3300090: Wheel
+    3300092: Wheel 1
+    3300094: Wheel 2
+    3300096: Wheel 3
+    3300098: Wrist
+    3300100: Wrist_Lip
+    4300000: Baseplate
+    4300002: Torso
+    4300004: Neck
+    4300006: Head
+    4300008: tank
+    4300010: Eye_Lid
+    4300012: Eye
+    4300014: Antenna_Base
+    4300016: Antenna_Shaft
+    4300018: Antenna_Tip
+    4300020: Arm_Lip
+    4300022: Shoulder
+    4300024: Other_Arm_Lid
+    4300026: Arm_Top
+    4300028: Arm_Bottom
+    4300030: Wrist_Lip
+    4300032: Wrist
+    4300034: Other_Wrist_Lip
+    4300036: Hand
+    4300038: Finger_Joint_Bottom
+    4300040: Finger_Bottom
+    4300042: Finger_Joint_Top
+    4300044: Finger_Top
+    4300046: Arm_Rail
+    4300048: Arm_Rail
+    4300050: Tank_Holder
+    4300052: Tank_Holder
+    4300054: Pod_FR
+    4300056: Plate_Top
+    4300058: Plate_Side
+    4300060: Trim
+    4300062: Wheel
+    4300064: Motor
+    4300066: Pod_FL
+    4300068: Plate_Top
+    4300070: Plate_Side
+    4300072: Trim
+    4300074: Wheel
+    4300076: Motor
+    4300078: Pod_BL
+    4300080: Plate_Top
+    4300082: Plate_Side
+    4300084: Trim
+    4300086: Wheel
+    4300088: Motor
+    4300090: Pod_BR
+    4300092: Plate_Top
+    4300094: Plate_Side
+    4300096: Trim
+    4300098: Wheel
+    4300100: Motor
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
