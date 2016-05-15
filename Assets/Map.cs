@@ -2,10 +2,7 @@
 using System.Collections;
 
 public class Map : MonoBehaviour {
-    public GameObject flatPrefab;
-    public GameObject slopePrefab;
-    public GameObject outPrefab;
-    public GameObject inPrefab;
+    public TileSet[] tileSets;
 
     Tile[,] tileMap;
 
@@ -23,7 +20,19 @@ public class Map : MonoBehaviour {
 
 public class Tile
 {
-    Tile(intVec2 position, int height)
+    GameObject piece;
+    TileSet tileSet;
+    intVec2 position;
+    int height;
+
+    Tile(intVec2 position, int height, TileSet tileSet)
+    {
+        this.height = height;
+        this.position = position;
+        this.tileSet = tileSet;
+    }
+
+    void setPiece(int down, int rotation)
     {
 
     }
