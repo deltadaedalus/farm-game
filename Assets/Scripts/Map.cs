@@ -1,6 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
+//[ExecuteInEditMode]
 public class Map : MonoBehaviour {
     public TileSet[] tileSets;
     public Texture2D mapTex;
